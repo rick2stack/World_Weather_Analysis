@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+## Background
+PlanMytrip is a new app that lets you plan your trip, Beta testers suggested a few changes. They recommend adding the weather description to the weather data you’ve already retrieved in this module. Also beta testers would like input filter places by temperature weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, you will create a travel route between the four cities as well as a marker layer map
